@@ -1,0 +1,2 @@
+# Add your real Google AdSense line here after Google gives you the publisher ID.
+# Example format: google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
